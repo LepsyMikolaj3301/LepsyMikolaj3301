@@ -3,7 +3,6 @@
 <!--
 **LepsyMikolaj3301/LepsyMikolaj3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## About me
 I am a Systems Engineering student at the Wroclaw University of Science and Technology. I'm passionate about learning advanced math topics and integrating them into applied projects and solutions. Currently seeking new job opportunities and motivated to work!
 
 - 🔭 I’m currently working on [creating my own web browser](...), [a git_report Slack Bot](...) and brushing up my old projects! 
