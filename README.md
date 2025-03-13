@@ -7,7 +7,7 @@ I am a Systems Engineering student at the Wroclaw University of Science and Tech
 - 📫 How to reach me:
    - email: mikolaj.lepsy@gmail.com
    - LinkedIn: www.linkedin.com/in/mikolaj-lepsy-6789892b4
-- ⚡ Fun fact: The average software developer drinks enough caffeine in a year to legally classify as a small espresso machine (that's me!🫡)
+- ⚡ Fun fact: The average software developer drinks enough caffeine in a year to legally classify as a small espresso machine (that's me! 😅)
 
 
 ## 💻 Tech Stack:
