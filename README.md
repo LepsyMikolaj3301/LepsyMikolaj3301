@@ -1,7 +1,7 @@
 # Hi, I'm Mikołaj!✌️
 
 <!--<br>**LepsyMikolaj3301/LepsyMikolaj3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>-->
-I am a Systems Engineering student at the Wroclaw University of Science and Technology. Contributor in the *Robocik* academic circle. I'm passionate about learning advanced math topics and integrating them into applied projects and solutions.  Currently seeking new job opportunities and motivated to work!
+I am a Systems Engineering student at the Wroclaw University of Science and Technology. Contributor in the [*Robocik*](https://www.robocik.pwr.edu.pl/) academic circle. I'm passionate about learning advanced math topics and integrating them into applied projects and solutions.  Currently seeking new job opportunities and motivated to work!
 - 🔭 I’m currently working on [creating projects related to embedded systems](...), [a git_report Slack Bot](...) and brushing up my old projects!
 - 🌱 I’m currently learning Web Development, Embedded Systems and Data Engineering
 - 📫 How to reach me:
