@@ -2,12 +2,13 @@
 
 <!--<br>**LepsyMikolaj3301/LepsyMikolaj3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>-->
 I am a Systems Engineering student at the Wroclaw University of Science and Technology. Contributor in the [*Robocik*](https://www.robocik.pwr.edu.pl/) academic circle. I'm passionate about learning advanced math topics and integrating them into applied projects and solutions.  Currently seeking new job opportunities and motivated to work!
-- 🔭 I’m currently working on [creating projects related to embedded systems](...), [a git_report Slack Bot](...) and brushing up my old projects!
+- 🔭 I’m currently working on [creating projects related to embedded systems](...), [A full ETL mock pipeline](https://github.com/LepsyMikolaj3301/ETL-mock-pipeline) and brushing up my old projects!
 - 🌱 I’m currently learning Web Development, Embedded Systems and Data Engineering
 - 📫 How to reach me:
    - email: mikolaj.lepsy@gmail.com
    - LinkedIn: www.linkedin.com/in/mikolaj-lepsy-6789892b4
 - ⚡ Fun fact: The average software developer drinks enough caffeine in a year to legally classify as a small espresso machine (that's me! 😅)
+  <!-- a git_report Slack Bot -->
 
 
 ## 💻 Tech Stack:
