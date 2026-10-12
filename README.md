@@ -1,6 +1,6 @@
 # Hi, I'm Mikołaj
 
-Data Engineer at Nokia and Systems Engineering student at Wrocław University of Science and Technology. Contributor in the [Robocik](https://www.robocik.pwr.edu.pl/) academic circle.
+Data Engineer at Nokia and Systems Engineering student at Wrocław University of Science and Technology.
 
 I build data pipelines and the infrastructure they run on. Currently focused on **RAG & LLM systems**, **MLOps**, **platform engineering** and my **homelab**.
 
